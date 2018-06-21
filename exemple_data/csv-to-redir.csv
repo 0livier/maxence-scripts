@@ -1,0 +1,3 @@
+URL in 404,Redirection
+http://www.foo.com/before,http://www.bar.com/after
+https://www.foo.com/before,http://www.bar.com/after
